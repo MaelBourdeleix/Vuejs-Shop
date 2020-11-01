@@ -1,0 +1,44 @@
+{
+  "cours": [
+    {
+      "nom": "HTML & CSS",
+      "duree": "10h",
+      "professeur": "Mr de la Fontaine",
+      "description": "Cours d'introduction au html et css.",
+      "prix": "30 €",
+      "image": "html.png"
+    },
+    {
+      "nom": "React",
+      "duree": "4h",
+      "professeur": "Mme De Lucet",
+      "description": "Cours d'introduction à React.",
+      "prix": "20 €",
+      "image": "react.png"
+    },
+    {
+      "nom": "React Native",
+      "duree": "5h",
+      "professeur": "Mr Albert",
+      "description": "Cours d'introduction à react native et au développement mobile.",
+      "prix": "300 €",
+      "image": "react-native.png"
+    },
+    {
+      "nom": "Vue JS",
+      "duree": "2h",
+      "professeur": "Mr Guillon",
+      "description": "Dans ce cour, nous vous expliquerons comment réaliser un site à l'aide de vue js",
+      "prix": "50 €",
+      "image": "logo.png"
+    },
+    {
+      "nom": "Finance - Découvrir la finance extérieur",
+      "duree": "3h",
+      "professeur": "Mr Paulo",
+      "description": "Nous évoquerons dans ce cours comment les autres pays dans le monde ce développement économiquement.",
+      "prix": "60 €",
+      "image": "finance.jpg"
+    }
+  ]
+}
